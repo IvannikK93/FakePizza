@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FakePizza/static/css/main.06930d15.css",
+    "main.js": "/FakePizza/static/js/main.f7f2dbbc.js",
+    "static/media/pizza-logo.svg": "/FakePizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/FakePizza/index.html",
+    "main.06930d15.css.map": "/FakePizza/static/css/main.06930d15.css.map",
+    "main.f7f2dbbc.js.map": "/FakePizza/static/js/main.f7f2dbbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06930d15.css",
+    "static/js/main.f7f2dbbc.js"
+  ]
+}
